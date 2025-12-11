@@ -1,0 +1,9 @@
+# Ignore backend environment variables
+backend/.env
+
+# Optional ignore any env files
+*.env
+
+node_modules/
+
+.next/
